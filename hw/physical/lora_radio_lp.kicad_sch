@@ -10,6 +10,341 @@
 		(rev "Proto")
 	)
 	(lib_symbols)
+	(polyline
+		(pts
+			(xy 232.41 72.39) (xy 232.41 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "014174e1-9190-4ba3-a3bb-614078940417")
+	)
+	(polyline
+		(pts
+			(xy 110.49 72.39) (xy 120.65 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03043016-c12c-4d17-a0fd-85698a874b7c")
+	)
+	(polyline
+		(pts
+			(xy 158.75 177.8) (xy 158.75 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e08e993-0c3e-4395-9000-cd4ee236991d")
+	)
+	(polyline
+		(pts
+			(xy 116.84 72.39) (xy 116.84 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d9368dc-8cff-42aa-944d-1d1714ea0a72")
+	)
+	(polyline
+		(pts
+			(xy 152.4 166.37) (xy 152.4 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "23f46450-9887-4bca-89b7-e1d4a926418e")
+	)
+	(polyline
+		(pts
+			(xy 160.02 175.26) (xy 160.02 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "425e1d14-84a8-4fb6-bc9a-9434b520c259")
+	)
+	(polyline
+		(pts
+			(xy 189.23 100.33) (xy 213.36 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52dbe141-2e2a-471c-8fdc-cd40c295bb2f")
+	)
+	(polyline
+		(pts
+			(xy 120.65 72.39) (xy 123.19 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a922154-f3c1-4c2a-80fb-4e443f878b86")
+	)
+	(polyline
+		(pts
+			(xy 110.49 72.39) (xy 116.84 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b2d5aca-e517-45bd-91df-798f95221233")
+	)
+	(polyline
+		(pts
+			(xy 232.41 78.74) (xy 232.41 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c225f9e-6a9e-4f70-8b45-07796b82a0f0")
+	)
+	(polyline
+		(pts
+			(xy 171.45 78.74) (xy 171.45 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d254d96-70ba-4ec1-a543-76166b813f29")
+	)
+	(polyline
+		(pts
+			(xy 156.21 177.8) (xy 156.21 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f660709-68d1-493c-98e9-f583c69b2e78")
+	)
+	(polyline
+		(pts
+			(xy 171.45 149.86) (xy 171.45 158.75)
+		)
+		(stroke
+			(width 0.254)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "775181f5-dbb9-4923-a551-93cf344ddbfa")
+	)
+	(polyline
+		(pts
+			(xy 156.21 171.45) (xy 156.21 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78a9c798-2146-42b2-af1d-4302ee1d3d68")
+	)
+	(polyline
+		(pts
+			(xy 157.48 175.26) (xy 157.48 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "803dc3d3-5f2c-480a-a4ed-7c5074e30e39")
+	)
+	(polyline
+		(pts
+			(xy 116.84 78.74) (xy 123.19 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8143d801-359c-4364-9c57-6b2b3c33b103")
+	)
+	(polyline
+		(pts
+			(xy 116.84 78.74) (xy 116.84 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8336c5f7-2ee1-48cb-bd31-9ad99bc5626c")
+	)
+	(polyline
+		(pts
+			(xy 132.08 100.33) (xy 152.4 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85066136-9496-43a1-b1bb-0038225665f8")
+	)
+	(polyline
+		(pts
+			(xy 171.45 113.03) (xy 171.45 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e85b539-a997-498d-85e0-538055531962")
+	)
+	(polyline
+		(pts
+			(xy 171.45 78.74) (xy 177.8 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "994086aa-b8df-4e26-809a-3db23ba91da9")
+	)
+	(polyline
+		(pts
+			(xy 152.4 173.99) (xy 156.21 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "9f2ee044-0f25-403a-bae7-9fcdccef8648")
+	)
+	(polyline
+		(pts
+			(xy 116.84 113.03) (xy 116.84 158.75)
+		)
+		(stroke
+			(width 0.254)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "a54000a0-819a-4820-97e8-0fce1d7b05d1")
+	)
+	(polyline
+		(pts
+			(xy 165.1 72.39) (xy 175.26 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "acfce428-85b3-4798-b4c2-b84a1560b09f")
+	)
+	(polyline
+		(pts
+			(xy 236.22 72.39) (xy 238.76 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b958878f-e9e9-4272-b34e-fdacac75994d")
+	)
+	(polyline
+		(pts
+			(xy 171.45 72.39) (xy 171.45 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be9467a7-7a3a-47a8-9e28-a993f070b164")
+	)
+	(polyline
+		(pts
+			(xy 232.41 78.74) (xy 238.76 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c084261e-f1be-43dd-81d8-4982648deb2e")
+	)
+	(polyline
+		(pts
+			(xy 160.02 173.99) (xy 165.1 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce26c7a3-49b9-4cad-9883-a93ac0dc4ea7")
+	)
+	(polyline
+		(pts
+			(xy 165.1 72.39) (xy 171.45 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d67a0e5c-1d00-4561-8edd-ce8653d99918")
+	)
+	(polyline
+		(pts
+			(xy 226.06 72.39) (xy 232.41 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e61cb73d-70d8-4d97-8bf6-ed97f41dd817")
+	)
+	(polyline
+		(pts
+			(xy 175.26 72.39) (xy 177.8 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6d68f68-d815-4a33-8b5b-157c571e8a2b")
+	)
+	(polyline
+		(pts
+			(xy 226.06 72.39) (xy 236.22 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4d4f7b1-cd33-45c9-bf04-a50db40e9f33")
+	)
+	(polyline
+		(pts
+			(xy 165.1 166.37) (xy 165.1 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb4266d2-028f-4c1a-883b-61e0fab60aa8")
+	)
+	(polyline
+		(pts
+			(xy 232.41 113.03) (xy 232.41 158.75)
+		)
+		(stroke
+			(width 0.254)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "ff6d5aa6-1fe0-4899-8ee9-72fb493dcbd0")
+	)
 	(text "Ultra Low Power LoRA Meshtastic Radio"
 		(exclude_from_sim no)
 		(at 103.124 29.718 0)
@@ -21,8 +356,8 @@
 		(uuid "9dc790b9-d0f2-4142-acef-d25a6d1f7d9b")
 	)
 	(sheet
-		(at 35.56 96.52)
-		(size 53.34 3.81)
+		(at 152.4 90.17)
+		(size 36.83 22.86)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -33,7 +368,7 @@
 		)
 		(uuid "1838aebe-0d84-4135-8262-b1b58cfdb077")
 		(property "Sheetname" "MCU_BLE"
-			(at 35.56 95.8084 0)
+			(at 152.4 89.4584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42,7 +377,7 @@
 			)
 		)
 		(property "Sheetfile" "MCU_BLE.kicad_sch"
-			(at 35.56 100.9146 0)
+			(at 152.4 113.6146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59,7 +394,7 @@
 		)
 	)
 	(sheet
-		(at 35.56 123.19)
+		(at 180.34 162.56)
 		(size 53.34 3.81)
 		(fields_autoplaced yes)
 		(stroke
@@ -71,7 +406,7 @@
 		)
 		(uuid "31acbf74-4464-4d5d-b332-d543d17ede4a")
 		(property "Sheetname" "BYPASS"
-			(at 35.56 122.4784 0)
+			(at 180.34 161.8484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -80,7 +415,7 @@
 			)
 		)
 		(property "Sheetfile" "BYPASS.kicad_sch"
-			(at 35.56 127.5846 0)
+			(at 180.34 166.9546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -97,8 +432,8 @@
 		)
 	)
 	(sheet
-		(at 35.56 132.08)
-		(size 53.34 3.81)
+		(at 96.52 158.75)
+		(size 153.67 10.16)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -109,7 +444,7 @@
 		)
 		(uuid "3576270e-fb44-43d0-92fe-e1b52947b89d")
 		(property "Sheetname" "POWER"
-			(at 35.56 131.3684 0)
+			(at 96.52 158.0384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -118,7 +453,7 @@
 			)
 		)
 		(property "Sheetfile" "POWER.kicad_sch"
-			(at 35.56 136.4746 0)
+			(at 96.52 169.4946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -135,8 +470,8 @@
 		)
 	)
 	(sheet
-		(at 35.56 114.3)
-		(size 53.34 3.81)
+		(at 95.25 90.17)
+		(size 36.83 22.86)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -147,7 +482,7 @@
 		)
 		(uuid "43b1fc22-b706-4706-a6f5-d4b7f0f9014a")
 		(property "Sheetname" "GNSS_MODULE"
-			(at 35.56 113.5884 0)
+			(at 95.25 89.4584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -156,7 +491,7 @@
 			)
 		)
 		(property "Sheetfile" "GNSS_MODULE.kicad_sch"
-			(at 35.56 118.6946 0)
+			(at 95.25 113.6146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -173,8 +508,8 @@
 		)
 	)
 	(sheet
-		(at 35.56 105.41)
-		(size 53.34 3.81)
+		(at 213.36 90.17)
+		(size 35.56 22.86)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -185,7 +520,7 @@
 		)
 		(uuid "58c3d426-d3ca-4263-a439-0e9101a026f3")
 		(property "Sheetname" "LORA_MODULE"
-			(at 35.56 104.6984 0)
+			(at 213.36 89.4584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -194,7 +529,7 @@
 			)
 		)
 		(property "Sheetfile" "LORA_MODULE.kicad_sch"
-			(at 35.56 109.8046 0)
+			(at 213.36 113.6146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -211,7 +546,7 @@
 		)
 	)
 	(sheet
-		(at 35.56 149.86)
+		(at 116.84 162.56)
 		(size 53.34 3.81)
 		(fields_autoplaced yes)
 		(stroke
@@ -223,7 +558,7 @@
 		)
 		(uuid "98c22fd0-6a6e-4153-9f34-df053c24afd3")
 		(property "Sheetname" "BATTERY_CHARGER"
-			(at 35.56 149.1484 0)
+			(at 116.84 161.8484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -232,7 +567,7 @@
 			)
 		)
 		(property "Sheetfile" "BATTERY_CHARGER.kicad_sch"
-			(at 35.56 154.2546 0)
+			(at 116.84 166.9546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -249,8 +584,8 @@
 		)
 	)
 	(sheet
-		(at 35.56 140.97)
-		(size 53.34 3.81)
+		(at 152.4 127)
+		(size 36.83 22.86)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -261,7 +596,7 @@
 		)
 		(uuid "ff8a0b6a-79a8-4d32-a0ba-a0b5d7bd7ce3")
 		(property "Sheetname" "DISPLAY"
-			(at 35.56 140.2584 0)
+			(at 152.4 126.2884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -270,7 +605,7 @@
 			)
 		)
 		(property "Sheetfile" "DISPLAY.kicad_sch"
-			(at 35.56 145.3646 0)
+			(at 152.4 150.4446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
