@@ -1240,6 +1240,17 @@
 		)
 		(uuid "439a5544-bb90-4a07-a3ce-85fecdb6ebbe")
 	)
+	(text "REPLACE WITH LOCAL LIB \nOR KICAD LIB PART"
+		(exclude_from_sim no)
+		(at 206.248 77.216 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(color 255 21 0 1)
+			)
+		)
+		(uuid "84a90b6f-129e-4027-a911-704eddac4d90")
+	)
 	(label "PP1800_LX"
 		(at 224.79 63.5 0)
 		(fields_autoplaced yes)

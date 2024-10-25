@@ -10,6 +10,16 @@
 		(rev "Proto")
 	)
 	(lib_symbols)
+	(text "Ultra Low Power LoRA Meshtastic Radio"
+		(exclude_from_sim no)
+		(at 103.124 29.718 0)
+		(effects
+			(font
+				(size 5 5)
+			)
+		)
+		(uuid "9dc790b9-d0f2-4142-acef-d25a6d1f7d9b")
+	)
 	(sheet
 		(at 35.56 96.52)
 		(size 53.34 3.81)
@@ -31,7 +41,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "${KIPRJMOD}/sch/MCU_BLE.kicad_sch"
+		(property "Sheetfile" "MCU_BLE.kicad_sch"
 			(at 35.56 100.9146 0)
 			(effects
 				(font
@@ -69,7 +79,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "${KIPRJMOD}/sch/BYPASS.kicad_sch"
+		(property "Sheetfile" "BYPASS.kicad_sch"
 			(at 35.56 127.5846 0)
 			(effects
 				(font
@@ -107,7 +117,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "${KIPRJMOD}/sch/POWER.kicad_sch"
+		(property "Sheetfile" "POWER.kicad_sch"
 			(at 35.56 136.4746 0)
 			(effects
 				(font
@@ -145,7 +155,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "${KIPRJMOD}/sch/GNSS_MODULE.kicad_sch"
+		(property "Sheetfile" "GNSS_MODULE.kicad_sch"
 			(at 35.56 118.6946 0)
 			(effects
 				(font
@@ -183,7 +193,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "${KIPRJMOD}/sch/LORA_MODULE.kicad_sch"
+		(property "Sheetfile" "LORA_MODULE.kicad_sch"
 			(at 35.56 109.8046 0)
 			(effects
 				(font
@@ -221,7 +231,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "${KIPRJMOD}/sch/BATTERY_CHARGER.kicad_sch"
+		(property "Sheetfile" "BATTERY_CHARGER.kicad_sch"
 			(at 35.56 154.2546 0)
 			(effects
 				(font
@@ -259,7 +269,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "${KIPRJMOD}/sch/DISPLAY.kicad_sch"
+		(property "Sheetfile" "DISPLAY.kicad_sch"
 			(at 35.56 145.3646 0)
 			(effects
 				(font
