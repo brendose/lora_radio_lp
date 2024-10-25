@@ -1,2 +1,2 @@
-# lora_radio_lp
+# lora_radio_lp/hw
 Contains all Hardware project files

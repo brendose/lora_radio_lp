@@ -1,2 +1,2 @@
-# lora_radio_lp
+# lora_radio_lp/sw
 Contains all Software project files
