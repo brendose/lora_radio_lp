@@ -479,6 +479,8 @@
     },
     "net_colors": null,
     "netclass_assignments": {
+      "/GNSS_MODULE/VCC_LNA": "Power",
+      "/GNSS_MODULE/VCC_RF": "Power",
       "PP1800_ALW": "Power"
     },
     "netclass_patterns": [
@@ -629,10 +631,6 @@
     [
       "3576270e-fb44-43d0-92fe-e1b52947b89d",
       "POWER"
-    ],
-    [
-      "98c22fd0-6a6e-4153-9f34-df053c24afd3",
-      "BATTERY_CHARGER"
     ]
   ],
   "text_variables": {}

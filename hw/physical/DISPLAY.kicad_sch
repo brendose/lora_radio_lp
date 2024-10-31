@@ -10,4 +10,15 @@
 		(comment 1 "Brendan Bleker")
 	)
 	(lib_symbols)
+	(text "TBD"
+		(exclude_from_sim no)
+		(at 220.98 129.794 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(color 255 21 0 1)
+			)
+		)
+		(uuid "e1ea9e94-77d9-47e9-adf3-cda27bc62815")
+	)
 )

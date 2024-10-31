@@ -1,5 +1,9 @@
 # Ignore kicad backups
 *-backups
+*auto_saved*
+
+#Kicad lock files
+*.lck
 
 # Ignore build directory and all files within
 
@@ -13,4 +17,3 @@
 # Ignore files ending with .md (markdown files) except README.md
 *.md
 !README.md
-
