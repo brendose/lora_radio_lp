@@ -5483,7 +5483,7 @@
 		(dnp no)
 		(uuid "161ed85b-7b8c-4600-b242-69937cb42c1b")
 		(property "Reference" "U1"
-			(at 199.39 57.15 0)
+			(at 202.946 60.452 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5492,7 +5492,7 @@
 			)
 		)
 		(property "Value" "nRF52840-QIAA"
-			(at 199.39 59.69 0)
+			(at 202.946 62.992 0)
 			(effects
 				(font
 					(size 1.27 1.27)
