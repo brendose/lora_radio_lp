@@ -1896,6 +1896,50 @@
 			)
 		)
 	)
+	(global_label "I2C_GNSS_SDA"
+		(shape bidirectional)
+		(at 139.7 125.73 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "47693f8b-b029-49bf-abb5-ee3667224c54")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 121.9964 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "I2C_GNSS_SCL"
+		(shape output)
+		(at 139.7 128.27 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4d2c09cc-fef4-4e3b-aa43-fb4d66623478")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 123.1682 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "GNSS_EXTINT"
 		(shape output)
 		(at 139.7 133.35 180)
@@ -1953,50 +1997,6 @@
 		(uuid "9fb9580a-cdb8-4d6c-bb24-625b63f36b8f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 122.9869 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "I2C_SDA"
-		(shape bidirectional)
-		(at 139.7 125.73 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "a84f4a55-3e3a-4ca6-a993-1ec96ab262b5")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 127.9835 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "I2C_SCL"
-		(shape input)
-		(at 139.7 128.27 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "cad2f39c-e218-4d5f-b421-ee44a98520b9")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.1553 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
