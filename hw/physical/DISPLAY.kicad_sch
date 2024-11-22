@@ -21,4 +21,114 @@
 		)
 		(uuid "e1ea9e94-77d9-47e9-adf3-cda27bc62815")
 	)
+	(global_label "SPIM21_DISP_SCK"
+		(shape output)
+		(at 193.04 80.01 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0a03112f-cbaf-40fb-aadf-93a1366298fe")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 213.0189 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SPIM21_NRF_DO_DISP_DI"
+		(shape bidirectional)
+		(at 193.04 85.09 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4c5a2c57-002d-4e23-8216-d44c909f5fae")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 220.4803 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SPIM21_DISP_DC"
+		(shape output)
+		(at 193.04 82.55 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4e549cbc-559d-4905-bc65-bb3ba22383ff")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 211.8094 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DISP_RST"
+		(shape output)
+		(at 193.04 87.63 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8714cae7-ef7d-4c9c-b337-3c03469b8e39")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 204.7942 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SPIM21_DISP_CS_L"
+		(shape output)
+		(at 193.04 90.17 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fc73d557-39a1-4e8b-92f7-70377dc1e540")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 213.7446 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 )
