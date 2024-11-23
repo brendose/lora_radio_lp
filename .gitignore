@@ -1,6 +1,7 @@
 # Ignore kicad backups
 *-backups
 *auto_saved*
+*.bak
 
 #Kicad lock files
 *.lck

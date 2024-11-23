@@ -1852,6 +1852,16 @@
 		)
 		(uuid "e8f59cd7-9765-4e83-b5f0-98984b3281d3")
 	)
+	(text "GNSS Radio"
+		(exclude_from_sim no)
+		(at 44.45 23.114 0)
+		(effects
+			(font
+				(size 5 5)
+			)
+		)
+		(uuid "2eeb8883-e9cf-4ce9-bfe2-0c38b92bbe23")
+	)
 	(label "VCC_LNA"
 		(at 279.4 88.9 0)
 		(fields_autoplaced yes)
@@ -2084,7 +2094,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "000b0f6b-9847-4602-86ea-9b42139ac717")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR0408"
 			(at 304.8 143.51 0)
 			(effects
 				(font
@@ -2134,7 +2144,7 @@
 		(instances
 			(project "lora_radio_lp"
 				(path "/fff85bc4-e8ec-4b5d-b2e2-83ecb397a864/43b1fc22-b706-4706-a6f5-d4b7f0f9014a"
-					(reference "#PWR038")
+					(reference "#PWR0408")
 					(unit 1)
 				)
 			)
@@ -2150,7 +2160,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "29df037a-c2dc-4478-a1d5-0d5bb08bcee8")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR0409"
 			(at 203.2 158.75 0)
 			(effects
 				(font
@@ -2200,7 +2210,7 @@
 		(instances
 			(project "lora_radio_lp"
 				(path "/fff85bc4-e8ec-4b5d-b2e2-83ecb397a864/43b1fc22-b706-4706-a6f5-d4b7f0f9014a"
-					(reference "#PWR035")
+					(reference "#PWR0409")
 					(unit 1)
 				)
 			)
@@ -2215,7 +2225,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "356a3eff-ce30-4582-bd01-3ab0cad567b1")
-		(property "Reference" "R9"
+		(property "Reference" "R404"
 			(at 156.21 124.46 90)
 			(effects
 				(font
@@ -2267,7 +2277,7 @@
 		(instances
 			(project "lora_radio_lp"
 				(path "/fff85bc4-e8ec-4b5d-b2e2-83ecb397a864/43b1fc22-b706-4706-a6f5-d4b7f0f9014a"
-					(reference "R9")
+					(reference "R404")
 					(unit 1)
 				)
 			)
@@ -2283,7 +2293,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "41f60f3b-bc0e-44f5-abd3-3f54a2a117b1")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR0402"
 			(at 140.97 105.41 0)
 			(effects
 				(font
@@ -2333,7 +2343,7 @@
 		(instances
 			(project "lora_radio_lp"
 				(path "/fff85bc4-e8ec-4b5d-b2e2-83ecb397a864/43b1fc22-b706-4706-a6f5-d4b7f0f9014a"
-					(reference "#PWR061")
+					(reference "#PWR0402")
 					(unit 1)
 				)
 			)
@@ -2348,7 +2358,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "54c898d2-4b92-46e1-9afb-e3b06df4f0db")
-		(property "Reference" "R7"
+		(property "Reference" "R402"
 			(at 156.21 116.84 90)
 			(effects
 				(font
@@ -2400,7 +2410,7 @@
 		(instances
 			(project "lora_radio_lp"
 				(path "/fff85bc4-e8ec-4b5d-b2e2-83ecb397a864/43b1fc22-b706-4706-a6f5-d4b7f0f9014a"
-					(reference "R7")
+					(reference "R402")
 					(unit 1)
 				)
 			)
@@ -2416,7 +2426,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "555e70ca-7a26-4a68-930b-7b1efaa05ed8")
-		(property "Reference" "C33"
+		(property "Reference" "C402"
 			(at 157.48 92.7162 0)
 			(effects
 				(font
@@ -2470,7 +2480,7 @@
 		(instances
 			(project "lora_radio_lp"
 				(path "/fff85bc4-e8ec-4b5d-b2e2-83ecb397a864/43b1fc22-b706-4706-a6f5-d4b7f0f9014a"
-					(reference "C33")
+					(reference "C402")
 					(unit 1)
 				)
 			)
@@ -2486,7 +2496,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ed43325-6720-4ee3-9bf7-15a2e6e85386")
-		(property "Reference" "C34"
+		(property "Reference" "C401"
 			(at 143.51 92.7162 0)
 			(effects
 				(font
@@ -2540,7 +2550,7 @@
 		(instances
 			(project "lora_radio_lp"
 				(path "/fff85bc4-e8ec-4b5d-b2e2-83ecb397a864/43b1fc22-b706-4706-a6f5-d4b7f0f9014a"
-					(reference "C34")
+					(reference "C401")
 					(unit 1)
 				)
 			)
@@ -2556,7 +2566,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5f8467a8-af5b-49a0-8a0f-e15de9bed40b")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR0407"
 			(at 279.4 121.92 0)
 			(effects
 				(font
@@ -2606,7 +2616,7 @@
 		(instances
 			(project "lora_radio_lp"
 				(path "/fff85bc4-e8ec-4b5d-b2e2-83ecb397a864/43b1fc22-b706-4706-a6f5-d4b7f0f9014a"
-					(reference "#PWR059")
+					(reference "#PWR0407")
 					(unit 1)
 				)
 			)
@@ -2622,7 +2632,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "682c49e6-a532-4cdc-a000-3a22118c2bed")
-		(property "Reference" "C35"
+		(property "Reference" "C405"
 			(at 269.24 93.9862 0)
 			(effects
 				(font
@@ -2676,7 +2686,7 @@
 		(instances
 			(project "lora_radio_lp"
 				(path "/fff85bc4-e8ec-4b5d-b2e2-83ecb397a864/43b1fc22-b706-4706-a6f5-d4b7f0f9014a"
-					(reference "C35")
+					(reference "C405")
 					(unit 1)
 				)
 			)
@@ -2692,7 +2702,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7a63d359-bacd-410e-ab9d-e45864f0206e")
-		(property "Reference" "TP1"
+		(property "Reference" "TP401"
 			(at 228.6 134.6199 90)
 			(effects
 				(font
@@ -2743,7 +2753,7 @@
 		(instances
 			(project "lora_radio_lp"
 				(path "/fff85bc4-e8ec-4b5d-b2e2-83ecb397a864/43b1fc22-b706-4706-a6f5-d4b7f0f9014a"
-					(reference "TP1")
+					(reference "TP401")
 					(unit 1)
 				)
 			)
@@ -2759,7 +2769,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7afa441d-6338-4251-a5ce-2d629851e9e9")
-		(property "Reference" "L3"
+		(property "Reference" "L401"
 			(at 293.37 116.8399 0)
 			(effects
 				(font
@@ -2813,7 +2823,7 @@
 		(instances
 			(project "lora_radio_lp"
 				(path "/fff85bc4-e8ec-4b5d-b2e2-83ecb397a864/43b1fc22-b706-4706-a6f5-d4b7f0f9014a"
-					(reference "L3")
+					(reference "L401")
 					(unit 1)
 				)
 			)
@@ -2829,7 +2839,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7b935194-b0d3-43f6-9e9f-0492a17208d6")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR0405"
 			(at 181.61 105.41 0)
 			(effects
 				(font
@@ -2879,7 +2889,7 @@
 		(instances
 			(project "lora_radio_lp"
 				(path "/fff85bc4-e8ec-4b5d-b2e2-83ecb397a864/43b1fc22-b706-4706-a6f5-d4b7f0f9014a"
-					(reference "#PWR029")
+					(reference "#PWR0405")
 					(unit 1)
 				)
 			)
@@ -2895,7 +2905,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "80b661cd-58d0-43bd-a542-18d6365a5144")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR0406"
 			(at 266.7 106.68 0)
 			(effects
 				(font
@@ -2945,7 +2955,7 @@
 		(instances
 			(project "lora_radio_lp"
 				(path "/fff85bc4-e8ec-4b5d-b2e2-83ecb397a864/43b1fc22-b706-4706-a6f5-d4b7f0f9014a"
-					(reference "#PWR062")
+					(reference "#PWR0406")
 					(unit 1)
 				)
 			)
@@ -2961,7 +2971,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8d1c48e2-df08-43ef-933d-d244219b953d")
-		(property "Reference" "J3"
+		(property "Reference" "J401"
 			(at 308.61 127.2931 0)
 			(effects
 				(font
@@ -3015,7 +3025,7 @@
 		(instances
 			(project "lora_radio_lp"
 				(path "/fff85bc4-e8ec-4b5d-b2e2-83ecb397a864/43b1fc22-b706-4706-a6f5-d4b7f0f9014a"
-					(reference "J3")
+					(reference "J401")
 					(unit 1)
 				)
 			)
@@ -3030,7 +3040,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9e056e9e-c24b-4193-a9a6-e76a17acfed3")
-		(property "Reference" "R10"
+		(property "Reference" "R405"
 			(at 156.21 127 90)
 			(effects
 				(font
@@ -3082,7 +3092,7 @@
 		(instances
 			(project "lora_radio_lp"
 				(path "/fff85bc4-e8ec-4b5d-b2e2-83ecb397a864/43b1fc22-b706-4706-a6f5-d4b7f0f9014a"
-					(reference "R10")
+					(reference "R405")
 					(unit 1)
 				)
 			)
@@ -3097,7 +3107,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9e8ed71d-6fe7-4b10-b8b0-c658268f17bc")
-		(property "Reference" "R8"
+		(property "Reference" "R403"
 			(at 156.21 119.38 90)
 			(effects
 				(font
@@ -3149,7 +3159,7 @@
 		(instances
 			(project "lora_radio_lp"
 				(path "/fff85bc4-e8ec-4b5d-b2e2-83ecb397a864/43b1fc22-b706-4706-a6f5-d4b7f0f9014a"
-					(reference "R8")
+					(reference "R403")
 					(unit 1)
 				)
 			)
@@ -3165,7 +3175,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2deab54-1b1a-4307-b5b0-38e757e0bb21")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR0403"
 			(at 154.94 105.41 0)
 			(effects
 				(font
@@ -3215,7 +3225,7 @@
 		(instances
 			(project "lora_radio_lp"
 				(path "/fff85bc4-e8ec-4b5d-b2e2-83ecb397a864/43b1fc22-b706-4706-a6f5-d4b7f0f9014a"
-					(reference "#PWR060")
+					(reference "#PWR0403")
 					(unit 1)
 				)
 			)
@@ -3231,7 +3241,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a68bde23-809a-4366-9221-dee5d65137b6")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR0404"
 			(at 168.91 105.41 0)
 			(effects
 				(font
@@ -3281,7 +3291,7 @@
 		(instances
 			(project "lora_radio_lp"
 				(path "/fff85bc4-e8ec-4b5d-b2e2-83ecb397a864/43b1fc22-b706-4706-a6f5-d4b7f0f9014a"
-					(reference "#PWR036")
+					(reference "#PWR0404")
 					(unit 1)
 				)
 			)
@@ -3363,7 +3373,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ae02ef82-e75b-4756-a168-c8333f973367")
-		(property "Reference" "C15"
+		(property "Reference" "C404"
 			(at 184.15 92.7162 0)
 			(effects
 				(font
@@ -3417,7 +3427,7 @@
 		(instances
 			(project "lora_radio_lp"
 				(path "/fff85bc4-e8ec-4b5d-b2e2-83ecb397a864/43b1fc22-b706-4706-a6f5-d4b7f0f9014a"
-					(reference "C15")
+					(reference "C404")
 					(unit 1)
 				)
 			)
@@ -3433,7 +3443,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b72e5f37-f6bb-497f-b652-fbeb038722f0")
-		(property "Reference" "U3"
+		(property "Reference" "U401"
 			(at 205.3941 146.05 0)
 			(effects
 				(font
@@ -3535,7 +3545,7 @@
 		(instances
 			(project "lora_radio_lp"
 				(path "/fff85bc4-e8ec-4b5d-b2e2-83ecb397a864/43b1fc22-b706-4706-a6f5-d4b7f0f9014a"
-					(reference "U3")
+					(reference "U401")
 					(unit 1)
 				)
 			)
@@ -3551,7 +3561,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c2feef8a-076f-424f-ad14-5128ba84249d")
-		(property "Reference" "C17"
+		(property "Reference" "C407"
 			(at 264.1663 121.92 90)
 			(effects
 				(font
@@ -3603,7 +3613,7 @@
 		(instances
 			(project "lora_radio_lp"
 				(path "/fff85bc4-e8ec-4b5d-b2e2-83ecb397a864/43b1fc22-b706-4706-a6f5-d4b7f0f9014a"
-					(reference "C17")
+					(reference "C407")
 					(unit 1)
 				)
 			)
@@ -3618,7 +3628,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c8db5fcc-87bf-42c9-ae8e-3bcc75334a18")
-		(property "Reference" "R11"
+		(property "Reference" "R401"
 			(at 247.65 87.63 90)
 			(effects
 				(font
@@ -3670,7 +3680,7 @@
 		(instances
 			(project "lora_radio_lp"
 				(path "/fff85bc4-e8ec-4b5d-b2e2-83ecb397a864/43b1fc22-b706-4706-a6f5-d4b7f0f9014a"
-					(reference "R11")
+					(reference "R401")
 					(unit 1)
 				)
 			)
@@ -3686,7 +3696,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cfa6ea38-c2e1-4c1a-b10e-28b1ee8d4509")
-		(property "Reference" "C32"
+		(property "Reference" "C403"
 			(at 171.45 92.7162 0)
 			(effects
 				(font
@@ -3740,7 +3750,7 @@
 		(instances
 			(project "lora_radio_lp"
 				(path "/fff85bc4-e8ec-4b5d-b2e2-83ecb397a864/43b1fc22-b706-4706-a6f5-d4b7f0f9014a"
-					(reference "C32")
+					(reference "C403")
 					(unit 1)
 				)
 			)
@@ -3756,7 +3766,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d354cef4-db9b-4d4a-b473-ca6314146ff5")
-		(property "Reference" "C31"
+		(property "Reference" "C406"
 			(at 281.94 107.9562 0)
 			(effects
 				(font
@@ -3810,7 +3820,7 @@
 		(instances
 			(project "lora_radio_lp"
 				(path "/fff85bc4-e8ec-4b5d-b2e2-83ecb397a864/43b1fc22-b706-4706-a6f5-d4b7f0f9014a"
-					(reference "C31")
+					(reference "C406")
 					(unit 1)
 				)
 			)
