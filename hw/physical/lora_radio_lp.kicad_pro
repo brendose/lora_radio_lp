@@ -479,9 +479,20 @@
     },
     "net_colors": null,
     "netclass_assignments": {
+      "/DISPLAY/PREVGH": "Power",
+      "/DISPLAY/PREVGL": "Power",
+      "/DISPLAY/SW": "Power",
+      "/DISPLAY/SWGL": "Power",
+      "/DISPLAY/VCOM": "Power",
+      "/DISPLAY/VDD": "Power",
+      "/DISPLAY/VPP": "Power",
+      "/DISPLAY/VSH": "Power",
+      "/DISPLAY/VSL": "Power",
       "/GNSS_MODULE/VCC_LNA": "Power",
       "/GNSS_MODULE/VCC_RF": "Power",
-      "PP1800_ALW": "Power"
+      "Net-(J701-Pin_1)": "Power",
+      "PP1800_ALW": "Power",
+      "PP3300_DISP": "Power"
     },
     "netclass_patterns": [
       {
@@ -623,10 +634,6 @@
     [
       "ff8a0b6a-79a8-4d32-a0ba-a0b5d7bd7ce3",
       "DISPLAY"
-    ],
-    [
-      "31acbf74-4464-4d5d-b332-d543d17ede4a",
-      "BYPASS"
     ],
     [
       "3576270e-fb44-43d0-92fe-e1b52947b89d",
